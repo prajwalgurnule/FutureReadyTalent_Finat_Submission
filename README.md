@@ -38,7 +38,7 @@ Azure Service, Static Web Apps
 
 # Link to the Website: 
 
-https://kind-plant-066726e10.1.azurestaticapps.net/
+https://prajwalgurnule.github.io/FutureReadyTalent_Finat_Submission/
 
 # Video Demo Link:
 https://youtu.be/T6STUYWKwQ0
