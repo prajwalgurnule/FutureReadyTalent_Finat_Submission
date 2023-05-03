@@ -41,8 +41,5 @@ Azure Service, Static Web Apps
 https://kind-plant-066726e10.1.azurestaticapps.net/
 
 # Video Demo Link:
-https://youtu.be/djIHznFEba8
+https://youtu.be/T6STUYWKwQ0
 
-# Link to Repo:
-
-https://github.com/atulguptag/FutureReadyTalent_project
